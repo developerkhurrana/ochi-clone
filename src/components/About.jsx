@@ -7,8 +7,8 @@ function About() {
     <div
       data-scroll
       data-scroll-section
-      data-scroll-speed="-0.2"
-      className="w-full p-20 bg-[#cdea68] rounded-tr-3xl rounded-tl-3xl text-black "
+      data-scroll-speed="-0.3"
+      className="w-full p-20 -mt-22 bg-[#cdea68] rounded-tr-3xl rounded-tl-3xl text-black "
     >
       <h1 className="font-['Neue_Montreal'] text-[4vw] leading-[4.5vw] tracking-tight ">
         Ochi is a strategic partner for fast-grow­ing tech businesses that need
